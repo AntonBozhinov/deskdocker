@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import 'core-js/stable';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import './index.css';
 
 import * as Wails from '@wailsapp/runtime';
 
